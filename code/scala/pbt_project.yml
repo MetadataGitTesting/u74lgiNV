@@ -1,0 +1,49 @@
+name: edwardo.mraz
+description: Enhanced
+version: 0.0.1
+author: 9z9cfcbx.srw0qdan@7wq5zf9r.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: edwardomraz
+  parentArtefactID: team1732317114462
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 23:12:26'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 23:12:27'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T23:12:27.498628Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '134210668'
+  createdAt: '2024-11-22T23:12:27.498628Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
